@@ -1,0 +1,34 @@
+
+h1{
+    padding: 20px;
+    font-size: 36px;
+}
+p,h1,h2 { 
+    text-align: center;
+}
+
+.game_board{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+
+ul{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    padding: 0;
+}
+
+.card_img{
+    width: 150px;
+}
+.user_form{
+    text-align: center;
+}
+/* .countainer{
+    display: flex;
+    justify-content: center;
+    padding: 0;
+
+} */
